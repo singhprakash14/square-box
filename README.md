@@ -6,6 +6,7 @@ A simple interactive 3x3 matrix game built with React where players click boxes 
 
 1. **Interactive 3x3 Matrix**
    - Clean, responsive grid layout
+     
    - Visual feedback on interaction
    - Smooth transitions and animations
 
